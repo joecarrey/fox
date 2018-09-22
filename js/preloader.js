@@ -5,6 +5,6 @@ document.body.onload = function(){
 		if(!pre.classList.contains('done')){
 			pre.classList.add('done');
 		}
-	}, 3000)
+	}, 1000)
 
 }
